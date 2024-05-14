@@ -1,4 +1,4 @@
-![Build Page](https://github.com/Apex-Rocketry/apexrocketry.space/blob/main/.github/workflows/nextjs.yml/badge.svg)
+![Build Page](https://github.com/Apex-Rocketry/apexrocketry.space/actions/workflows/nextjs.yml/badge.svg)
 
 ![NextJs](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
