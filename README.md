@@ -10,16 +10,16 @@ This is the Apex Rocketry official website.
 
 <!-- readme: contributors -start -->
 <table>
- <tbody>
-  <tr>
+	<tbody>
+		<tr>
             <td align="center">
                 <a href="https://github.com/gugacarbo">
                     <img src="https://avatars.githubusercontent.com/u/33656915?v=4" width="100;" alt="gugacarbo"/>
                     <br />
-                    <sub><b>Gustavo L. Carbonera</b></sub>
+                    <sub><b>gugacarbo</b></sub>
                 </a>
             </td>
-  </tr>
- <tbody>
+		</tr>
+	<tbody>
 </table>
 <!-- readme: contributors -end -->
