@@ -1,6 +1,6 @@
 ![Build Page](https://github.com/Apex-Rocketry/apexrocketry.space/actions/workflows/nextjs.yml/badge.svg)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
 
 # Apex Rocketry Website
 
