@@ -2,7 +2,7 @@
 #
 # To get started with Next.js see: https://nextjs.org/docs/getting-started
 #
-name: Deploy Next.js site to Pages
+name: Deploy Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -114,3 +114,5 @@ jobs:
         uses: akhilmhdh/contributors-readme-action@v2.3.10
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          use_username: true
